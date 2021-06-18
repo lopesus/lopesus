@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giscard
-- 👀 I’m interested in c#, asp.netc core, wpf ,uwp, unity for game developement
+- 👀 I’m interested in c#, asp.net core, wpf ,uwp, unity for game developement
 - 🌱 I’m currently learning microsoft orleans 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mboumeden@gmail.com
